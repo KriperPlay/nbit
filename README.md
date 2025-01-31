@@ -63,7 +63,7 @@ To use this language, follow these steps:
 
 2. Compile and run the C program, passing the filename as an argument:
 ```shell
-   gcc -o nbt nbt.c
+   gcc -o nbt src/nbt.c
    ./nbt tests/hello.nbt
    ```
 
