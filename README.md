@@ -4,7 +4,7 @@
 # Description
 // documentation writren by gpt-4o
 
-// nbt writteb by me
+// nbt written by me
 
 # Overview
 
